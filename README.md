@@ -19,6 +19,10 @@ Finally, I want that this project serve me as base for further projects.
 
 This project is based on Ribot and Android10 architecture projects. You can find the links below in references.
 
+This is the diagram of the architecture of this project:
+
+![Architecture Diagram](https://github.com/elloza/Android-Developer-Certification/blob/master/images/Architecture%20Diagram.png)
+
   
 ## References:
  - https://medium.com/default-to-open/taking-the-associate-android-developer-exam-c400d8e74363
